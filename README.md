@@ -1,0 +1,2 @@
+# HotSpot
+HotSpot firmware repository
